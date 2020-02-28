@@ -13,6 +13,8 @@ Our proposal is to train a deep Neural-net on WikiSQL dataset (Gold standard) wi
 * As Digital Assistants are on a rise, we must find a way to parse our legacy datasets for them to understand.
 * At the moment data for Digital Assistants must be kept in a specialized format that cannot be used in operation.
 
+##### Example
+![Example](Readme/example.jpg?raw=true "Example")
 ### Technology Stack
 * Client-side: React
 * Server-side: Python, flask
