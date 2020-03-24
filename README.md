@@ -1,7 +1,7 @@
 # ProjectGroup-16
 
 Text severity analysis for Ethical and Legal compliance 
-# Approved 
+
 [Approval Comments]- Can you connect to box folder and scan all documents for this?
 
 If yes, this will be an awesome project
