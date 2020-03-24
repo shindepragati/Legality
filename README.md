@@ -1,4 +1,4 @@
-# ProjectGroup-16
+# Legality
 
 Text severity analysis for Ethical and Legal compliance 
 
